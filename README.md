@@ -1,4 +1,4 @@
-# DeretBilanganFibonacci
+# DeretFibonacci
 
 Nama : Dimas Aditya Putranto 
 
