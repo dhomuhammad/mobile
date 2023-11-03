@@ -303,8 +303,5 @@ public class MainActivity extends AppCompatActivity {
 ## Hasil Run 
 
 
-
-
-
-https://github.com/syifaaurellia/DeretBilanganFibonacci/assets/115867244/66f7c216-ba05-4d3b-912e-108e10b25726
+https://github.com/Doflamingo20/mobile/assets/130146099/57ae2946-e591-4ad5-95fd-fa0f6ab8b30f
 
