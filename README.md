@@ -273,5 +273,9 @@ public class MainActivity extends AppCompatActivity {
 ## Hasil Run 
 
 
-https://github.com/Doflamingo20/mobile/assets/130146099/57ae2946-e591-4ad5-95fd-fa0f6ab8b30f
+
+
+https://github.com/Doflamingo20/mobile/assets/130146099/e191464f-31f5-4110-99bc-b2343f1e175c
+
+
 
